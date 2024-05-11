@@ -12,3 +12,4 @@ Here's a breakdown of how the code implements the Abstract Factory pattern:
 - Concrete Car Classes (Sedan, Hatchback, SUV): These classes extend Car and represent the different types of Cars.
 
 ## UML Diagram
+![Test](assets/AbstractFactory_Exercise.jpg)
